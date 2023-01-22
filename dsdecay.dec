@@ -1,0 +1,47 @@
+Alias MyBs B_s0
+Alias MyantiBs anti-B_s0
+ChargeConj MyBs MyantiBs
+Alias MyDs+ D_s+
+Alias MyDs- D_s-
+ChargeConj MyDs+ MyDs-
+Alias MyDs0* D_s0*-
+Alias Mypi0_1 pi0
+Alias Mypi0_2 pi0
+Alias MyK+ K+
+Alias MyK- K-
+ChargeConj MyK+ MyK-
+Alias Mypi+ pi+
+
+
+Decay Upsilon(5S)
+1.0000 MyBs MyantiBs VSS;
+# 0.5 B_s0 MyBs VSS
+Enddecay
+
+Decay MyBs 
+1.0000 MyDs+ MyDs0* Mypi0_1 PHOTOS;
+Enddecay
+
+
+Decay MyDs+ 
+1.0000 MyK+ MyK- Mypi+ PHOTOS;
+Enddecay
+
+
+# There is all right because MyDs0* have an electic charge -1
+Decay MyDs0*
+1.0000 MyDs- Mypi0_2 PHOTOS;
+Enddecay
+
+Decay Mypi0_1
+1.0000 gamma gamma PHOTOS;
+Enddecay
+
+
+Decay Mypi0_2
+1.0000 gamma gamma PHOTOS;
+Enddecay
+
+CDecay MyDs-
+
+End

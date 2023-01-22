@@ -1,0 +1,425 @@
+[imelnyk@ccw06 version5]$ ./runEvtgen lum-Y5S.txt Bs_Ds_KKpi_v5.dec Y5S.conf 10000000 100000
+Total Luminosity = 119.503
+Will scale number of events for each experiment accordingly. Total sum of generated events will be 10000000
+**** Exp = 53: generating 1800206 events
+Starting job 0 with 100000 events
+Job <84465898> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84465899> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84465900> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84465901> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84465903> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84465904> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84465905> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84465906> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84465907> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84465908> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84465909> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84465910> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84465911> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84465913> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84465914> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84465915> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84465916> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84465917> is submitted to queue <s>.
+Starting job 18 with 206 events with Bs_Ds_KKpi_v5
+Job <84465918> is submitted to queue <s>.
+**** Exp = 67: generating 2277934 events
+Starting job 0 with 100000 events
+Job <84465919> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84465920> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84465921> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84465922> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84465923> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84465924> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84465925> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84465926> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84465927> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84465928> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84465929> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84465930> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84465931> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84465932> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84465934> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84465936> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84465937> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84465938> is submitted to queue <s>.
+Starting job 18 with 100000 events
+Job <84465939> is submitted to queue <s>.
+Starting job 19 with 100000 events
+Job <84465941> is submitted to queue <s>.
+Starting job 20 with 100000 events
+Job <84465942> is submitted to queue <s>.
+Starting job 21 with 100000 events
+Job <84465943> is submitted to queue <s>.
+Starting job 22 with 77934 events with Bs_Ds_KKpi_v5
+Job <84465944> is submitted to queue <s>.
+**** Exp = 69: generating 4002410 events
+Starting job 0 with 100000 events
+Job <84465945> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84465946> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84465947> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84465948> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84465949> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84465950> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84465951> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84465952> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84465953> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84465954> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84465955> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84465956> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84465958> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84465959> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84465960> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84465961> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84465962> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84465963> is submitted to queue <s>.
+Starting job 18 with 100000 events
+Job <84465964> is submitted to queue <s>.
+Starting job 19 with 100000 events
+Job <84465965> is submitted to queue <s>.
+Starting job 20 with 100000 events
+Job <84465966> is submitted to queue <s>.
+Starting job 21 with 100000 events
+Job <84465967> is submitted to queue <s>.
+Starting job 22 with 100000 events
+Job <84465969> is submitted to queue <s>.
+Starting job 23 with 100000 events
+Job <84465970> is submitted to queue <s>.
+Starting job 24 with 100000 events
+Job <84465971> is submitted to queue <s>.
+Starting job 25 with 100000 events
+Job <84465972> is submitted to queue <s>.
+Starting job 26 with 100000 events
+Job <84465973> is submitted to queue <s>.
+Starting job 27 with 100000 events
+Job <84465974> is submitted to queue <s>.
+Starting job 28 with 100000 events
+Job <84465975> is submitted to queue <s>.
+Starting job 29 with 100000 events
+Job <84465976> is submitted to queue <s>.
+Starting job 30 with 100000 events
+Job <84465977> is submitted to queue <s>.
+Starting job 31 with 100000 events
+Job <84465978> is submitted to queue <s>.
+Starting job 32 with 100000 events
+Job <84465979> is submitted to queue <s>.
+Starting job 33 with 100000 events
+Job <84465980> is submitted to queue <s>.
+Starting job 34 with 100000 events
+Job <84465981> is submitted to queue <s>.
+Starting job 35 with 100000 events
+Job <84465982> is submitted to queue <s>.
+Starting job 36 with 100000 events
+Job <84465983> is submitted to queue <s>.
+Starting job 37 with 100000 events
+Job <84465984> is submitted to queue <s>.
+Starting job 38 with 100000 events
+Job <84465985> is submitted to queue <s>.
+Starting job 39 with 100000 events
+Job <84465987> is submitted to queue <s>.
+Starting job 40 with 2410 events with Bs_Ds_KKpi_v5
+Job <84465988> is submitted to queue <s>.
+**** Exp = 71: generating 1919450 events
+Starting job 0 with 100000 events
+Job <84465989> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84465990> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84465991> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84465992> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84465993> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84465994> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84465995> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84465996> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84465997> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84465998> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84465999> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84466001> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84466002> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84466003> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84466004> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84466005> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84466006> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84466007> is submitted to queue <s>.
+Starting job 18 with 100000 events
+Job <84466009> is submitted to queue <s>.
+Starting job 19 with 19450 events with Bs_Ds_KKpi_v5
+Job <84466010> is submitted to queue <s>.
+Total Luminosity = 119.503
+Will scale number of events for each experiment accordingly. Total sum of generated events will be 10000000
+**** Exp = 53: generating 1800206 events
+Starting job 0 with 100000 events
+Job <84466611> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84466612> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84466613> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84466614> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84466615> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84466616> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84466617> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84466618> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84466619> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84466620> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84466621> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84466622> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84466623> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84466624> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84466625> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84466626> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84466627> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84466628> is submitted to queue <s>.
+Starting job 18 with 206 events with Bs_Ds_KKpi_v5
+Job <84466629> is submitted to queue <s>.
+**** Exp = 67: generating 2277934 events
+Starting job 0 with 100000 events
+Job <84466630> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84466631> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84466632> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84466633> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84466634> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84466635> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84466636> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84466637> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84466638> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84466639> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84466640> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84466642> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84466643> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84466644> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84466645> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84466646> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84466647> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84466648> is submitted to queue <s>.
+Starting job 18 with 100000 events
+Job <84466649> is submitted to queue <s>.
+Starting job 19 with 100000 events
+Job <84466650> is submitted to queue <s>.
+Starting job 20 with 100000 events
+Job <84466651> is submitted to queue <s>.
+Starting job 21 with 100000 events
+Job <84466652> is submitted to queue <s>.
+Starting job 22 with 77934 events with Bs_Ds_KKpi_v5
+Job <84466653> is submitted to queue <s>.
+**** Exp = 69: generating 4002410 events
+Starting job 0 with 100000 events
+Job <84466654> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84466655> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84466656> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84466657> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84466658> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84466659> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84466660> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84466661> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84466662> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84466663> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84466664> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84466665> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84466666> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84466667> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84466668> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84466669> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84466670> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84466671> is submitted to queue <s>.
+Starting job 18 with 100000 events
+Job <84466673> is submitted to queue <s>.
+Starting job 19 with 100000 events
+Job <84466674> is submitted to queue <s>.
+Starting job 20 with 100000 events
+Job <84466675> is submitted to queue <s>.
+Starting job 21 with 100000 events
+Job <84466676> is submitted to queue <s>.
+Starting job 22 with 100000 events
+Job <84466677> is submitted to queue <s>.
+Starting job 23 with 100000 events
+Job <84466678> is submitted to queue <s>.
+Starting job 24 with 100000 events
+Job <84466679> is submitted to queue <s>.
+Starting job 25 with 100000 events
+Job <84466680> is submitted to queue <s>.
+Starting job 26 with 100000 events
+Job <84466681> is submitted to queue <s>.
+Starting job 27 with 100000 events
+Job <84466682> is submitted to queue <s>.
+Starting job 28 with 100000 events
+Job <84466683> is submitted to queue <s>.
+Starting job 29 with 100000 events
+Job <84466684> is submitted to queue <s>.
+Starting job 30 with 100000 events
+Job <84466685> is submitted to queue <s>.
+Starting job 31 with 100000 events
+Job <84466686> is submitted to queue <s>.
+Starting job 32 with 100000 events
+Job <84466687> is submitted to queue <s>.
+Starting job 33 with 100000 events
+Job <84466688> is submitted to queue <s>.
+Starting job 34 with 100000 events
+Job <84466689> is submitted to queue <s>.
+Starting job 35 with 100000 events
+Job <84466690> is submitted to queue <s>.
+Starting job 36 with 100000 events
+Job <84466691> is submitted to queue <s>.
+Starting job 37 with 100000 events
+Job <84466692> is submitted to queue <s>.
+Starting job 38 with 100000 events
+Job <84466693> is submitted to queue <s>.
+Starting job 39 with 100000 events
+Job <84466694> is submitted to queue <s>.
+Starting job 40 with 2410 events with Bs_Ds_KKpi_v5
+Job <84466695> is submitted to queue <s>.
+**** Exp = 71: generating 1919450 events
+Starting job 0 with 100000 events
+Job <84466696> is submitted to queue <s>.
+Starting job 1 with 100000 events
+Job <84466697> is submitted to queue <s>.
+Starting job 2 with 100000 events
+Job <84466698> is submitted to queue <s>.
+Starting job 3 with 100000 events
+Job <84466699> is submitted to queue <s>.
+Starting job 4 with 100000 events
+Job <84466700> is submitted to queue <s>.
+Starting job 5 with 100000 events
+Job <84466701> is submitted to queue <s>.
+Starting job 6 with 100000 events
+Job <84466702> is submitted to queue <s>.
+Starting job 7 with 100000 events
+Job <84466703> is submitted to queue <s>.
+Starting job 8 with 100000 events
+Job <84466705> is submitted to queue <s>.
+Starting job 9 with 100000 events
+Job <84466706> is submitted to queue <s>.
+Starting job 10 with 100000 events
+Job <84466707> is submitted to queue <s>.
+Starting job 11 with 100000 events
+Job <84466708> is submitted to queue <s>.
+Starting job 12 with 100000 events
+Job <84466709> is submitted to queue <s>.
+Starting job 13 with 100000 events
+Job <84466710> is submitted to queue <s>.
+Starting job 14 with 100000 events
+Job <84466711> is submitted to queue <s>.
+Starting job 15 with 100000 events
+Job <84466712> is submitted to queue <s>.
+Starting job 16 with 100000 events
+Job <84466713> is submitted to queue <s>.
+Starting job 17 with 100000 events
+Job <84466714> is submitted to queue <s>.
+Starting job 18 with 100000 events
+Job <84466715> is submitted to queue <s>.
+Starting job 19 with 19450 events with Bs_Ds_KKpi_v5
+Job <84466716> is submitted to queue <s>.

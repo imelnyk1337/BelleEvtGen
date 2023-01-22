@@ -1,0 +1,90 @@
+############################################################
+#                                                          #
+#                       Ihor Melnyk                        #
+#		        12/10/2022                         #
+#                                                          #   
+############################################################
+
+# Define Aliases
+Alias MyB_s*0 B_s*0
+Alias Myanti-B_s*0 anti-B_s*0
+ChargeConj MyB_s*0 Myanti-B_s*0
+
+Alias MyB_s0 B_s0
+Alias Myanti-B_s0 anti-B_s0
+ChargeConj MyB_s0 Myanti-B_s0
+
+Alias MyD_s0*+ D_s0*+
+Alias MyD_s0*- D_s0*-
+ChargeConj MyD_s0*+ MyD_s0*-
+
+Alias MyD_s+ D_s+
+Alias MyD_s- D_s-
+ChargeConj MyD_s+ MyD_s-
+
+Alias MyPhi phi
+ChargeConj MyPhi MyPhi
+
+Alias MyKst0 K*0
+Alias Myanti-Kst0 anti-K*0
+ChargeConj MyKst0 Myanti-Kst0
+
+# Upsilon(5S) decay
+Decay Upsilon(5S)
+0.5    anti-B_s*0  MyB_s*0      PHOTOS PHSP;
+0.5    Myanti-B_s*0  B_s*0      PHOTOS PHSP;
+Enddecay
+
+Decay MyB_s*0
+1.0      MyB_s0  gamma               PHOTOS VSP_PWAVE;
+Enddecay
+
+Decay Myanti-B_s*0
+1.0	 Myanti-B_s0  gamma               PHOTOS VSP_PWAVE;
+Enddecay
+
+Decay MyB_s0
+0.5      MyD_s-   MyD_s0*+  pi0             PHOTOS PHSP;
+0.5      MyD_s+   MyD_s0*-  pi0             PHOTOS PHSP;
+Enddecay
+
+Decay Myanti-B_s0
+0.5	 MyD_s+   MyD_s0*-  pi0             PHOTOS PHSP;
+0.5	 MyD_s-   MyD_s0*+  pi0             PHOTOS PHSP;
+Enddecay
+
+Decay MyD_s0*+
+1.0   MyD_s+ pi0                            PHOTOS PHSP;
+Enddecay
+
+Decay MyD_s0*-
+1.0   MyD_s- pi0                            PHOTOS PHSP;
+Enddecay
+
+Decay MyD_s-
+0.5    MyPhi    pi-                     PHOTOS SVS;
+0.5    MyKst0    K-                      PHOTOS SVS;
+Enddecay
+
+Decay MyD_s+
+0.5    MyPhi    pi+                     PHOTOS SVS;
+0.5    Myanti-Kst0    K+                      PHOTOS SVS;
+Enddecay
+
+Decay MyKst0
+1.0 K+ pi-                    PHOTOS VSS;
+Enddecay
+
+Decay Myanti-Kst0
+1.0 K- pi+                    PHOTOS VSS;
+Enddecay
+
+Decay MyPhi
+1.000 K- K+		         PHOTOS VSS;
+Enddecay
+
+Decay pi0
+1.0000  gamma gamma            PHOTOS PHSP;
+Enddecay
+
+End
