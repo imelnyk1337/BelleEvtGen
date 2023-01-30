@@ -47,7 +47,6 @@ Decay Upsilon(5S)
 0.5000    Myanti-B_s*0  B_s*0    PHSP;
 Enddecay
 
-
 # --- B_s*0 decay ---
 Decay MyB_s*0
 1.0000      MyB_s0  gamma    VSP_PWAVE;
@@ -70,11 +69,11 @@ Enddecay
 
 # --- D_s0*+ decay ---
 Decay MyD_s0*+
-1.0000   MyD_s+  pi0    PHOTOS PHSP;
+1.0000   MyD_s+  pi0    PHOTOS VSS;
 Enddecay
 
 Decay MyD_s0*-
-1.0000   MyD_s-  pi0    PHOTOS PHSP;
+1.0000   MyD_s-  pi0    PHOTOS VSS;
 Enddecay
 
 # --- D_s decay ---
